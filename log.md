@@ -7,7 +7,6 @@
 
 **Link to the repository:**
 https://github.com/SpayL/Python-practice/tree/master/tuples
-
 https://github.com/SpayL/Python-practice/tree/master/dictionaries
 
 
