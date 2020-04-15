@@ -29,3 +29,7 @@
 ### Day 7: April 14,2020
 
 **Today's Progress**: Learning a new domain of web development. Earlier i completed html5 and today i studied CSS. 
+
+### Day 8: April 15,2020
+
+**Today's Progress**:Studies about generators and generator comprehension in python.
