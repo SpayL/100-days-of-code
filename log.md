@@ -33,3 +33,7 @@
 ### Day 8: April 15,2020
 
 **Today's Progress**:Studies about generators and generator comprehension in python.
+
+### Day 9: April 16,2020
+
+**Today's Progress**: Studied about errors and debugging in python.
