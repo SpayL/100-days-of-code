@@ -37,3 +37,7 @@
 ### Day 9: April 16,2020
 
 **Today's Progress**: Studied about errors and debugging in python.
+
+### Day 10: April 17,2020
+
+**Today's Progress**:Solved problems on hackerrank and started 30 days of code challenge on hackerrank.
