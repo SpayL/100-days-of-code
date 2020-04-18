@@ -13,6 +13,13 @@
 
 **Today's Progress**:Learned about list comprehension and practiced problems rearding same . I tried to do some problems on hackerrank in python . link is : https://www.hackerrank.com/domains/python?badge_type=python
 
+### Day 4: April 11,2020
+
+**Today's Progress**:Studied about data science and solved problems on hackerrank in python.
+ link is : https://www.hackerrank.com/domains/python?badge_type=python
+ 
+ 
+
 
 
 
