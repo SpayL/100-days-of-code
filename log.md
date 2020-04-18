@@ -22,6 +22,10 @@
 
 **Today's Progress**: learned about *operator and kwargs. Moreover studied about lamba expressions in python. It was quite intresting.
 
+### Day 6: April 13,2020
+
+**Today's Progress**:Learned about advanced python functions and practiced problems about the same . I'll push the codes to the github tommorow because of internet issuses.
+
 
  
 
