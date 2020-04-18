@@ -18,6 +18,11 @@
 **Today's Progress**:Studied about data science and solved problems on hackerrank in python.
  link is : https://www.hackerrank.com/domains/python?badge_type=python
  
+ ### Day 5: April 12,2020
+
+**Today's Progress**: learned about *operator and kwargs. Moreover studied about lamba expressions in python. It was quite intresting.
+
+
  
 
 
