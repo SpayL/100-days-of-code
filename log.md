@@ -41,3 +41,7 @@
 ### Day 10: April 17,2020
 
 **Today's Progress**:Solved problems on hackerrank and started 30 days of code challenge on hackerrank.
+
+### Day 11: April 18,2020
+
+**Today's Progress**:
