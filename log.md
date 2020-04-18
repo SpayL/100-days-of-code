@@ -3,6 +3,9 @@
 
 ### Day 1: April 8,2020
 
-**Today's Progress**: 
+**Today's Progress**: Studied about tuples and dictionaries in python and practiced code about same
+
+
+
 
 
