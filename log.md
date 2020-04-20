@@ -46,7 +46,7 @@
 
 **Today's Progress**: Practiced problems on hackerrank and from geeks for geeks to be efficent in python.
 
-### Day 11-12: April 18-19,2020
+### Day 12-13: April 19-20,2020
 
 **Today's Progress**: Started to learn java core and solved few question on basics .Learned how to work in ecplise IDE.
 
