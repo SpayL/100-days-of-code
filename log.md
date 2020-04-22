@@ -50,6 +50,15 @@
 
 **Today's Progress**: Started to learn java core and solved few question on basics .Learned how to work in ecplise IDE.
 
+### Day 14: April 21,2020
+
+**Today's Progress**: Started a project on java for graded submission.
+
+### Day 15: April 22,2020
+
+**Today's Progress**:Revised concepts on continous delivery  and devops and earned a certificate in that.
+
+
 
 
 
