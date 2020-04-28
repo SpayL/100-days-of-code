@@ -58,6 +58,9 @@
 
 **Today's Progress**:Revised concepts on continous delivery  and devops and earned a certificate in that.
 
+### Day 21: April 28,2020
+
+**Today's Progress**: Completed with HTML5 course and looking for learning and refreshing concepts of CSS.
 
 
 
